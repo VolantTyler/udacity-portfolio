@@ -1,0 +1,42 @@
+body {
+    padding-top: 3.5rem;
+  }
+
+* {
+  outline: 1px solid red !important;
+}
+
+#heading {
+  border-bottom: 3px solid #7d97ad;
+  margin-bottom: 10px;
+}
+
+.heading-title {
+  text-align: right;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  text-transform: uppercase;
+  color: #2d3c49;
+}
+
+.banner {
+  border-bottom: 3px;
+  border-bottom-color: #7d97ad;
+}
+
+.featured-title, .featured-address {
+  text-align: center;
+  color: #2d3c49;
+}
+
+.featured-title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+#sub-heading {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color: #7d97ad;
+}
