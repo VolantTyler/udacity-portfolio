@@ -2,10 +2,12 @@ body {
     padding-top: 3.5rem;
   }
 
-* {
+  /* outline every box */
+/* * {
   outline: 1px solid red !important;
-}
+} */
 
+/* TODO: fit border within container */
 #heading {
   border-bottom: 3px solid #7d97ad;
   margin-bottom: 10px;
@@ -17,6 +19,11 @@ body {
   font-weight: 300;
   text-transform: uppercase;
   color: #2d3c49;
+}
+
+h1.title {
+  font-weight: 100;
+  font-size: 3rem;
 }
 
 .banner {
@@ -33,10 +40,12 @@ body {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   text-transform: uppercase;
+  padding-top: 10px;
 }
 
 #sub-heading {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   color: #7d97ad;
+  padding-top: 10px;
 }

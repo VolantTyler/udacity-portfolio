@@ -22,10 +22,10 @@
     <header id="heading" class="container">
       <div  class="row">
         <div class="col-md-2">
-          <img src="images/volant_logo copy.png" class="img-fluid" alt="Volant Web Design logo">
+          <img src="images/volant_logo.png" class="img-fluid" alt="Volant Web Design logo">
         </div>
         <div class="col-md-10 heading-title">
-          <h1>Tyler Stahl</h1>
+          <h1 class="title">Tyler Stahl</h1>
           <p>Design Director, Volant Web Design</p>
         </div>
       </div>
@@ -63,6 +63,7 @@
     <footer class="container">
       <div class="row">
         <div class="col-md-12 text-center">
+          <hr>
           <div class="text-muted">
               &copy; <script>document.write(new Date().getFullYear())</script> <a href="https://volantweb.com/" target="_blank" style="color: #868e96">Volant Web Design</a> 
           </div>
