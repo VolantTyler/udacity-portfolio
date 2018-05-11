@@ -19,14 +19,16 @@
   </head>
 
   <body>
-    <header id="heading" class="container">
-      <div  class="row">
-        <div class="col-md-2">
-          <img src="images/volant_logo.png" class="img-fluid" alt="Volant Web Design logo">
-        </div>
-        <div class="col-md-10 heading-title">
-          <h1 class="title">Tyler Stahl</h1>
-          <p>Design Director, Volant Web Design</p>
+    <header>
+      <div id="heading" class="container">
+        <div  class="row">
+          <div class="col-md-2">
+            <img src="images/volant_logo.png" class="img-fluid" alt="Volant Web Design logo">
+          </div>
+          <div class="col-md-10 heading-title">
+            <h1 class="title">Tyler Stahl</h1>
+            <p>Design Director, Volant Web Design</p>
+          </div>
         </div>
       </div>
     </header>
@@ -42,17 +44,17 @@
           <h3 id="sub-heading">Featured Work</h3>
         </div>
         <div class="featured col-md-4">
-          <img src="images/client-drdevlyn.png" class="img-fluid" alt="">
+          <img src="images/client-drdevlyn.png" class="img-fluid featured-image" alt="website for Dr. Devlyn McCreight">
           <h2 class="featured-title">Dr. Devlyn</h2>
           <p class="featured-address">https://drdevlyn.com/</p>
         </div>
         <div class="featured col-md-4">
-          <img src="images/client-ccr.png" class="img-fluid" alt="">
+          <img src="images/client-ccr.png" class="img-fluid featured-image" alt="website for Christ Church, Ridgewood NJ">
           <h2 class="featured-title">Christ Church Ridgewood</h2>
           <p class="featured-address">http://christchurchridgewood.org/</p>
         </div>
         <div class="featured col-md-4">
-          <img src="images/client-arlene.png" class="img-fluid" alt="">
+          <img src="images/client-arlene.png" class="img-fluid featured-image" alt="website for Growing Up Strong">
           <h2 class="featured-title">Growing Up Strong</h2>
           <p class="featured-address">https://growingupstrong.net/</p>
         </div>
