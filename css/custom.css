@@ -1,12 +1,12 @@
 body {
-    padding-top: 1rem;
+    padding-top: 2rem;
     padding-bottom: 3rem;
   }
 
   /* outline every box for troubleshooting*/
-* {
+/* * {
   outline: 1px solid red !important;
-}
+} */
 
 /* TODO-X: fit border within container */
 #heading {
@@ -31,10 +31,11 @@ hr.header {
 @media screen and (max-width: 600px) {
     .heading-title {
     text-align: center;
+    padding-top: 1rem;
   }
 }
 /* TODO-X: add media query to text-align: center; on small screens */
-/* TODO: vertical center text--too much space below */
+/* TODO-X: vertical center text--too much space below */
 
 h1.title {
   font-weight: 100;

@@ -45,19 +45,22 @@
           <h3 id="sub-heading">Featured Work</h3>
         </div>
         <div class="featured col-md-4">
-          <img src="images/client-drdevlyn.png" class="img-fluid featured-image" alt="website for Dr. Devlyn McCreight">
+          <a href="https://drdevlyn.com/" target="blank">
+          <img src="images/client-drdevlyn.png" class="img-fluid featured-image" alt="website for Dr. Devlyn McCreight"></a>
           <h2 class="featured-title">Dr. Devlyn</h2>
-          <p class="featured-address">https://drdevlyn.com/</p>
+          <a href="https://drdevlyn.com/" target="blank"><p class="featured-address">https://drdevlyn.com/</p></a>
         </div>
         <div class="featured col-md-4">
-          <img src="images/client-ccr.png" class="img-fluid featured-image" alt="website for Christ Church, Ridgewood NJ">
+          <a href="http://christchurchridgewood.org/" target="blank">
+          <img src="images/client-ccr.png" class="img-fluid featured-image" alt="website for Christ Church, Ridgewood NJ"></a>
           <h2 class="featured-title">Christ Church Ridgewood</h2>
-          <p class="featured-address">http://christchurchridgewood.org/</p>
+          <a href="http://christchurchridgewood.org/" target="blank"><p class="featured-address">http://christchurchridgewood.org/</p></a>
         </div>
         <div class="featured col-md-4">
-          <img src="images/client-arlene.png" class="img-fluid featured-image" alt="website for Growing Up Strong">
+          <a href="https://growingupstrong.net/" target="blank">
+          <img src="images/client-arlene.png" class="img-fluid featured-image" alt="website for Growing Up Strong"></a>
           <h2 class="featured-title">Growing Up Strong</h2>
-          <p class="featured-address">https://growingupstrong.net/</p>
+          <a href="https://growingupstrong.net/" target="blank"><p class="featured-address">https://growingupstrong.net/</p></a>
         </div>
       </div>
 
