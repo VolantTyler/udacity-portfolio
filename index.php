@@ -23,7 +23,7 @@
       <div class="container" id="heading">
         <div  class="row">
           <div class="col-md-2 col-xs-4">
-            <img src="images/volant_logo_square.jpeg" class="img-fluid" alt="Volant Web Design logo">
+            <img src="images/volant_logo_smallbind.jpeg" class="img-fluid" alt="Volant Web Design logo">
           </div>
           <div class="col-md-10 col-xs-8 heading-title">
             <h1 class="title">Tyler Stahl</h1>
