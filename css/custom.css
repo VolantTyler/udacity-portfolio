@@ -1,16 +1,24 @@
 body {
-    padding-top: 3.5rem;
+    padding-top: 1rem;
+    padding-bottom: 3rem;
   }
 
-  /* outline every box */
+  /* outline every box for troubleshooting*/
 /* * {
   outline: 1px solid red !important;
 } */
 
-/* TODO: fit border within container */
+/* TODO: fit border within container - X */
 #heading {
-  border-bottom: 3px solid #7d97ad;
+  /* border-bottom: 3px solid #7d97ad; */
   margin-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* thanks to @William for suggesting <hr> modification */
+hr.header {
+  border: 2px solid #7d97ad;
 }
 
 .heading-title {
@@ -20,6 +28,8 @@ body {
   text-transform: uppercase;
   color: #2d3c49;
 }
+/* TODO: add media query to text-align: center; on small screens */
+/* TODO: vertical center text--too much space below */
 
 h1.title {
   font-weight: 100;
@@ -31,6 +41,11 @@ h1.title {
   border-bottom-color: #7d97ad;
 }
 
+.featured {
+  padding-bottom: 20px;
+}
+
+/* style adapted from Adam Wathan and Steve Schoger https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886 */
 .featured-image {
   box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, 0.2);
 }
@@ -48,7 +63,7 @@ h1.title {
 }
 
 .featured-address {
-  color: hs1(0, 0%, 45%);
+  color: #7d97ad;
 }
 
 #sub-heading {
@@ -57,3 +72,4 @@ h1.title {
   color: #7d97ad;
   padding-top: 10px;
 }
+
