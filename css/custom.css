@@ -31,6 +31,10 @@ h1.title {
   border-bottom-color: #7d97ad;
 }
 
+.featured-image {
+  box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, 0.2);
+}
+
 .featured-title, .featured-address {
   text-align: center;
   color: #2d3c49;
@@ -41,6 +45,10 @@ h1.title {
   font-weight: 300;
   text-transform: uppercase;
   padding-top: 10px;
+}
+
+.featured-address {
+  color: hs1(0, 0%, 45%);
 }
 
 #sub-heading {
