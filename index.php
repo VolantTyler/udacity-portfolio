@@ -20,16 +20,17 @@
 
   <body>
     <header>
-      <div id="heading" class="container">
+      <div class="container" id="heading">
         <div  class="row">
-          <div class="col-md-2">
-            <img src="images/volant_logo.png" class="img-fluid" alt="Volant Web Design logo">
+          <div class="col-md-2 col-xs-4">
+            <img src="images/volant_logo_square.jpeg" class="img-fluid" alt="Volant Web Design logo">
           </div>
-          <div class="col-md-10 heading-title">
+          <div class="col-md-10 col-xs-8 heading-title">
             <h1 class="title">Tyler Stahl</h1>
             <p>Design Director, Volant Web Design</p>
           </div>
         </div>
+        <hr class="header">
       </div>
     </header>
     
