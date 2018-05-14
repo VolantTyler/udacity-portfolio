@@ -28,6 +28,11 @@ hr.header {
   text-transform: uppercase;
   color: #2d3c49;
 }
+@media screen and (max-width: 600px) {
+    .heading-title {
+    text-align: center;
+  }
+}
 /* TODO: add media query to text-align: center; on small screens */
 /* TODO: vertical center text--too much space below */
 
